@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 public class GhostManorTarget : TargetRules
 {
-	public GhostManorTarget( TargetInfo Target) : base(Target)
+	public GhostManorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
